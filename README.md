@@ -1,19 +1,10 @@
-
-
-
-
 #TestTonic
 
 TestTonic is a fun and learning quiz app. Having multiple categories you can enjoy playing quiz from your favourite category and check your ability to break down the quiz while also learning along the way.
 
 
-
-
-
-
-
 ## List of features
-[Home Page]
+Home Page
 - Home page has multiple quiz categories along with a filter section and search otpion to choose the desired quiz.
 
 Rules Page
@@ -30,12 +21,6 @@ Login
 
 Signup
 -   New account can be created with this page.
-
-
-
-
-
-
 
 
 
@@ -60,7 +45,7 @@ Clone the project by adding the following command in the terminal.
 Make sure your have git installed and added to path.
 
 ```bash
-  
+  https://github.com/SumitBhasagi/TestTonic.git
 ```
 
 Go to the project directory
@@ -82,8 +67,8 @@ Start the server
 ```
 
 ## Screen shot
-![quiz-1](https://user-images.githubusercontent.com/80476561/162255754-68ba2fc5-863a-4469-9406-f899851b7219.png)
-![quiz-2](https://user-images.githubusercontent.com/80476561/162255757-46d765e8-9e8a-4fa8-9794-957fb5a09301.png)
-![quiz-3](https://user-images.githubusercontent.com/80476561/162255758-8bab20cb-1aeb-4a05-add8-67ff8d86d6f6.png)
-![quiz-4](https://user-images.githubusercontent.com/80476561/162255760-06c849ee-568e-48b6-99a1-fcdcb06e504c.png)
+![quiz-1]()
+![quiz-2]()
+![quiz-3]()
+![quiz-4]()
 
