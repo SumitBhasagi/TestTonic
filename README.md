@@ -1,10 +1,10 @@
-![logo](https://user-images.githubusercontent.com/80476561/162255075-30510b78-096b-4ba2-869b-209bb37d95d5.png)
 
 
 
-# Groovy Quiz
 
-[Groovy Quiz](https://groovyquiz.netlify.app/) is a fun and learning quiz app. Having multiple categories you can enjoy playing quiz from your favourite category and check your ability to break down the quiz while also learning along the way.
+#TestTonic
+
+TestTonic is a fun and learning quiz app. Having multiple categories you can enjoy playing quiz from your favourite category and check your ability to break down the quiz while also learning along the way.
 
 
 
@@ -13,7 +13,7 @@
 
 
 ## List of features
-[Home Page](https://groovyquiz.netlify.app/)
+[Home Page]
 - Home page has multiple quiz categories along with a filter section and search otpion to choose the desired quiz.
 
 Rules Page
@@ -41,23 +41,18 @@ Signup
 
 ## Tech Stack
 
-- HTML/CSS with [LightUi](https://uilight.netlify.app/) Component Library
+- HTML/CSS 
 - ReactJS
-- Mockbee for backend
+- Node
+- Express
 
 
 ## Author
 
--   Prakash Sakari - follow me on 👇
--   [GitHub](https://www.github.com/prakashsakari)
--   [LinkedIn](https://www.linkedin.com/in/prakashsakari/)
--   [Twitter](https://twitter.com/prakashsakari)
-
-
-## Live Link
-
-https://groovyquiz.netlify.app/
-
+-   Sumit Bhasagi - follow me on 👇
+-   [GitHub](https://www.github.com/sumitbhasagi)
+-   [LinkedIn](https://www.linkedin.com/in/sumit-bhasagi-7782b0291/)
+-   [X](https://x.com/BhasagiSumit)
 
 ## Run Locally
 
@@ -65,13 +60,13 @@ Clone the project by adding the following command in the terminal.
 Make sure your have git installed and added to path.
 
 ```bash
-  git clone https://github.com/prakashsakari/goovy-quiz.git
+  
 ```
 
 Go to the project directory
 
 ```bash
-  cd groovy-quiz
+  cd TestTonic
 ```
 
 Install dependencies
